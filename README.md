@@ -81,5 +81,5 @@ Edge Microvisor Toolkit shares its permissive open-source license:
 
 We acknowledge Microsoft's contributions to the open-source community and thank
 them for providing a secure and efficient Linux distribution.
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
